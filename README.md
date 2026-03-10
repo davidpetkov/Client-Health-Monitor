@@ -17,13 +17,13 @@ A professional performance-tracking platform built for high-stakes coaching and 
 Focused on tactical day-to-day management. 
 > *Logic: Sorted by `Last Score` (DESC), then `Last Input Date` (ASC) to surface overdue clients.*
 
-![Coach Dashboard Screenshot Placeholder](path/to/coach-screenshot.png)
+![Coach Dashboard Screenshot Placeholder](screenshots/coach_dashboard.png)
 
 ### Leadership Interface
 A strategic bird's-eye view of organizational health.
 > *Logic: Categorized by client risk zones (Priority 1: Score ≤ 2).*
 
-![Leadership Dashboard Screenshot Placeholder](path/to/leadership-screenshot.png)
+![Leadership Dashboard Screenshot Placeholder](screenshots/leadership_dashboard.png)
 
 ## 🛠 Features & Implementation
 
